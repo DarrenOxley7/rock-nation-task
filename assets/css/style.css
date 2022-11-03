@@ -1,3 +1,7 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Anton' , sans-serif;
+}
+
 
 /* Navbar custom css*/
 .customNav {
@@ -64,9 +68,44 @@
   text-align: center;
 }
 
+.content {
+  padding: 50px;
+}
+
+.sectionHeading {
+  text-align: center;
+}
+
+.showsNear {
+  padding: 0px 30px 30px 30px;
+}
+
+.cardContainer {
+  text-align: center;
+}
+
 .cardContainer {
   margin-bottom: 15px;
 }
+
+.valueProp {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.sideAccent {
+  background: #007bff;
+  width: 15px;
+}
+
+.imageContainer {
+  padding: 50px;
+}
+
+.imageContainer img {
+  width: 100%;
+}
+
 .card {
   margin: 0 auto;
 }
@@ -85,6 +124,3 @@ footer {
   margin-top: 50px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Anton' , sans-serif;
-}
